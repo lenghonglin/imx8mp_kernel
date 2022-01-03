@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0+
 // Copyright NXP 2020
 
-#include "imx8mp-evk.dts"
+#include "OK8MP-C.dts"
 
 / {
 	sound-wm8960 {
